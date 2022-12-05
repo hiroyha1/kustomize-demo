@@ -8,5 +8,5 @@ spec:
       containers:
       - name: nginx
         resources:
-          lmits:
+          limits:
             cpu: 70000m
